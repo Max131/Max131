@@ -1,5 +1,7 @@
 # Hi, I'm Mario Abreu, an eternal apprentice of the web techs, especially layout design and front end development.
 
+I have worked almost all my life in technical support and some times as a layout designer. I wish to work some day as front end developer or/and full time layout designer. I'm constantly learning about these topics. Oh, the english is not my first languaje and some times is  quiet bad but I effort to practice it and improve it. 
+
 ### I known:
 
 - HTML5
@@ -8,6 +10,8 @@
 - Bulma
 - Bootstrap
 - JS (Junior)
+- Jekyll
+- Markdown
 - Linux
 - PHP(very basic)
 - SQL (Junior)
