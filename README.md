@@ -9,13 +9,18 @@ I have worked almost all my life in technical support and some times as a layout
 - SASS
 - Bulma
 - Bootstrap
-- JS (Junior)
+- JS (relearning)
 - Jekyll
 - Markdown
 - Linux
 - PHP(very basic)
-- SQL (Junior)
+- SQL (basic)
 - APACHE
+
+### I want to learn
+- ReactJS (for job)
+- VueJS (especially)
+- OpenGraph
 
 ### Hobbies
 - Camping
