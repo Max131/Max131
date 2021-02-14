@@ -1,4 +1,24 @@
-# Hi there 👋
+# Hi, I'm Mario Abreu, an eternal apprentice of the web techs, especially layout design and front end development.
+
+### I known:
+
+- HTML5
+- CSS3
+- SASS
+- Bulma
+- Bootstrap
+- JS (Junior)
+- Linux
+- PHP(very basic)
+- SQL (Junior)
+- APACHE
+
+### Hobbies
+- Camping
+- Abseiling
+- Trekking
+- Poetry
+- Write short tales
 
 <!--
 **Max131/Max131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
