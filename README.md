@@ -1,9 +1,15 @@
-# Hi, I'm Mario Abreu, an eternal enthusiast of the web techs, especially layout design and front end development.
+# Hi, I'm Mario Abreu 😃
 
+I'm an eternal enthusiast of the web techs, especially layout design and front end development.
 I'm constantly learning about tech topics. 
+
+There is a lot of techs that a love like: **HTML**, **CSS**, **Javascript**, **Ract**, **Bulma**, **Jekyll**, **Linux**, etc...
 
 [My portfolio](https://portfolio.mabreumx.com)
 
+[![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max131)](https://github.com/anuraghazra/github-readme-stats)
+
+By the way, I love Markdown 💚, write 📖, flowers 🌻, abseiling 🧗, camping 🏕️, animals 🐶 and of course, the all mighty nature 🌳 🍃 ☁️ 🌕
 <!-- ### I known:
 
 - HTML5
