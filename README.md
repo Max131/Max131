@@ -7,7 +7,7 @@ There is a lot of techs that a love like: **HTML**, **CSS**, **Javascript**, **R
 
 [My portfolio](https://portfolio.mabreumx.com)
 
-[![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max131)](https://github.com/anuraghazra/github-readme-stats)
+[![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max131&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 By the way, I love Markdown 💚, write 📖, flowers 🌻, abseiling 🧗, camping 🏕️, animals 🐶 and of course, the all mighty nature 🌳 🍃 ☁️ 🌕
 <!-- ### I known:
