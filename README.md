@@ -5,7 +5,7 @@ I'm constantly learning about tech topics.
 
 There is a lot of techs that a love like: **HTML**, **CSS**, **Javascript**, **Ract**, **Bulma**, **Jekyll**, **Linux**, etc...
 
-[My portfolio](https://portfolio.mabreumx.com)
+[My portfolio](https://mabreumx.com)
 
 [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max131&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
